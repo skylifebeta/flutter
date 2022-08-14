@@ -34,6 +34,10 @@ flutter_lints
 2.17
 file:///D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_lints-2.0.1/
 file:///D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_lints-2.0.1/lib/
+intl
+2.12
+file:///D:/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0/
+file:///D:/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0/lib/
 lints
 2.17
 file:///D:/flutter/.pub-cache/hosted/pub.dartlang.org/lints-2.0.0/
@@ -50,6 +54,10 @@ meta
 2.12
 file:///D:/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.7.0/
 file:///D:/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.7.0/lib/
+one_clock
+2.12
+file:///D:/flutter/.pub-cache/hosted/pub.dartlang.org/one_clock-1.0.7/
+file:///D:/flutter/.pub-cache/hosted/pub.dartlang.org/one_clock-1.0.7/lib/
 path
 2.12
 file:///D:/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.1/
